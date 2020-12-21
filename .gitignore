@@ -6,6 +6,7 @@
 # 보고서 파일(.hwp) ignore
 *.hwp
 *.ppt
+*.pdf
 
 # User-specific files
 *.rsuser
